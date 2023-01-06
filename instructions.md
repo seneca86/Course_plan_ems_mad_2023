@@ -3,6 +3,15 @@
 
 Please regard this document as an update on the Syllabus and the source of truth in the cases they differ.
 
+### Homework rules
+
+* Homework will be done *in groups* of 3 or 4 students: only one student in the group will submit the code and will indicate the members of the group at the beginning of the solution
+* You need to register these groups into Blackboard; the groups will not change throughout the course
+* Please *do not* submit several versions within the same group: if you do that I will grade one at random (because I have no way to know which is the correct one)
+* Submission will be done via `Replit` (see below); submissions through other platforms will *not* be accepted
+* It is critical that the code runs in `Replit`, otherwise you will get 50% of the grade at most; justifications such as "it ran in my computer / in platform X (but does not run in `Replit`" will not be accepted
+
+
 ### Grade calculation details
 (Might be subjected to minor modification)
 
