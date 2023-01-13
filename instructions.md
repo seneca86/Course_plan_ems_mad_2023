@@ -29,7 +29,7 @@ Please regard this document as an update on the Syllabus and the source of truth
 | S1 | Lecture | Jan 13th 2022 |
 | S2 | Lecture | Jan 20th 2022 |
 | S3 | Lecture | Jan 27th 2022 |
-| S4 | Lecture | Feb 3rd 2022 |
+| S4 | Lecture | Feb 10th 2022 |
 | S5 | Lecture | Feb 17th 2022 |
 | S6 | Lecture | Feb 24th 2022 |
 | S7 | Lecture | Mar 3rd 2022 |
