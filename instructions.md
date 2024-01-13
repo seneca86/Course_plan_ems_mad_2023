@@ -37,7 +37,7 @@ Please regard this document as an update on the Syllabus and the source of truth
 
 | Component | Weight   | Comments |
 |-----------|----------|----------|
-| Class attendance | Mandatory | Must be higher than 70% in order to pass (IEU requirement)
+| Class attendance | Mandatory | Must be higher than a certain threshold in order to pass (IEU requirement)
 | Class participation | 10% | Will be reflected in the intensity and perseverance during in-class exercises
 | Homework | 20% | Must be done individually |
 | Midterm or group project (TBD) | 30% | |
