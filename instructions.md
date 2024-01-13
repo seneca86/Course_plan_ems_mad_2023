@@ -26,7 +26,7 @@ Please regard this document as an update on the Syllabus and the source of truth
 ### Sessions and exams
 | Session # | Type | Date |
 |-----------|------------|---------------------|
-| S1 | Lecture | Jan 13th 2022 |
+| S1 | Lecture | Jan 19th 2022 |
 | S2 | Lecture | Jan 20th 2022 |
 | S3 | Lecture | Jan 27th 2022 |
 | S4 | Lecture | Feb 10th 2022 |
