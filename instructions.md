@@ -12,7 +12,7 @@ Please regard this document as an update on the Syllabus and the source of truth
  
 ### Class rules
 
-* Silence Policy: silence must be maintained throughout the class, except for the periods of hands-on practice.
+* Silence Policy: silence must be maintained throughout the class, except for the periods of hands-on practice; otherwise I will ask you to leave and remove your attendance
 * No Food or Drinks: Consuming food or drinks (other than water, coffee, or tea) is not allowed in the classroom because it distracts me and other classmates.
 * Punctuality: Students cannot enter the class if more than 15 minutes late, unless they have notified me in advance.
 * Missed Qwickly login: if the app is not working for you, please email me during the class so that I can account for the attendance; this should be exceptional
