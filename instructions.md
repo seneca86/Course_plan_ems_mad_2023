@@ -16,7 +16,7 @@ Please regard this document as an update on the Syllabus and the source of truth
 * No Food or Drinks: Consuming food or drinks (other than water, coffee, or tea) is not allowed in the classroom because it distracts me and other classmates.
 * Punctuality: Students cannot enter the class if more than 15 minutes late, unless they have notified me in advance.
 * Missed Qwickly login: if the app is not working for you, please email me during the class so that I can account for the attendance; this should be exceptional
-* Copying from classmates in the homework or in the exam will be severely penalized and raised to the Ethics committee; if you want more detail you may ask last years' classmates
+* Copying from classmates in the homework or in the exam will be severely penalized and raised to the Ethics committee; if you want more detail you may ask last year class
 
 ### ChatGPT
 
