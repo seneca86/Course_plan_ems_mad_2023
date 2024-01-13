@@ -26,27 +26,20 @@ Please regard this document as an update on the Syllabus and the source of truth
 ### Sessions and exams
 | Session # | Type | Date |
 |-----------|------------|---------------------|
-| S1 | Lecture | Jan 19th 2022 |
-| S2 | Lecture | Jan 20th 2022 |
-| S3 | Lecture | Jan 27th 2022 |
-| S4 | Lecture | Feb 10th 2022 |
-| S5 | Lecture | Feb 17th 2022 |
-| S6 | Lecture | Feb 24th 2022 |
-| S7 | Lecture | Mar 3rd 2022 |
-| S8 | **Midterm** | Mar 17th 2022 |
-| S9 | Lecture | Mar 24th 2022 |
-| S10 | Lecture | Mar 31st 2022 |
-| S11 | Lecture| Apr 14th 2022 |
-| S12 | Lecture| Apr 28th 2022 |
-| S13 | Lecture| May 5th 2022 |
-| S14 | Lecture| May 12th 2022 |
-| S15 | **Final** | May 26th 2022 |
+| S1 + S2 | Lecture | Jan 19th 2022 |
+| S3 + S4 | Lecture | Feb 2nd 2022 |
+| S5 + S6 | Lecture | Feb 16th 2022 |
+| S7 + S8 | Lecture + **Midterm** | Mar 1st 2022 |
+| S9 + S10 | Lecture | Mar 15th 2022 |
+| S11 + S12 | Lecture | Apr 5th 2022 |
+| S13 + S14 | Lecture | Apr 19th 2022 |
+| S15 | **Final** | May 3th 2022 |
 
 ### Tools
 
 Python is one of the most popular programming languages and is therefore available in most general-purpose IDEs (Integrated Development Environments).
 
-We will use [Replit](www.replit.com) for homework and exam submissions; for the classes I recommend that you use VSCode or GitHub codespaces, but you have other alternatives if you prefer:
+We will use **Turnitin** for homework and exam submissions; for the classes I recommend that you use VSCode or GitHub codespaces, but you have other alternatives if you prefer:
 
 - [VSCode web version](https://vscode.dev/)
 - [VSCode desktop version](https://code.visualstudio.com/download)
