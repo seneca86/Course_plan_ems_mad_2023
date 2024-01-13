@@ -3,14 +3,33 @@
 
 Please regard this document as an update on the Syllabus and the source of truth in the cases they differ.
 
-### Homework rules
+### Office hours
+
+* There are no official "office hours" for the class but I am happy to stay after the class in the Tower if you need support
+* You may contact me via email with questions; I will usually reply over the weekend
+* Please do not use the Blackboard message system, use the IE email instead
+* You may also contact me via Whatsapp if you have a short yes/no question
+ 
+### Class rules
+
+* Silence Policy: silence must be maintained throughout the class, except for the periods of hands-on practice.
+* No Food or Drinks: Consuming food or drinks (other than water, coffee, or tea) is not allowed in the classroom because it distracts me and other classmates.
+* Punctuality: Students cannot enter the class if more than 15 minutes late, unless they have notified me in advance.
+* Missed Qwickly login: if the app is not working for you, please email me during the class so that I can account for the attendance; this should be exceptional
+
+### ChatGPT
+
+* ChatGPT (and LLMs in general) is not recommended for this class, in the same way that riding a bike is not recommended while preparing for a marathon
+* If you want to use it for the homework, I cannot stop you, but bear in mind that "ChatGPT provided this code" is not a valid argument to avoid penalties for bad code (more the opposite)
+* The exam will most likely be on pen and paper, although details are to be defined
+
+### Homework submission rules
 
 * Homework will be done *individually* or *in groups* of 2 or 3 students: only one student in the group will submit the code and will indicate the members of the group at the beginning of the solution
 * You need to register these groups into Blackboard by **Feb 2nd** ; the groups *cannot* change throughout the course
 * Please *do not* submit several versions within the same group: if you do that I will grade one at random (because I have no way to know which is the correct one)
-* Submission will be done via `Replit` (see below); submissions through other platforms will *not* be accepted
-* It is critical that the code runs in `Replit`, otherwise you will get 50% of the grade at most; justifications such as "it ran in my computer / in platform X (but does not run in `Replit`" will not be accepted
-
+* Submission will be done via `Turnitin` (see below); submissions through other platforms or email will *not* be accepted
+* It is critical that the code runs, otherwise you will get 50% of the grade at most; justifications such as "it ran in my computer / in platform X" will not be accepted
 
 ### Grade calculation details
 (Might be subjected to minor modification)
