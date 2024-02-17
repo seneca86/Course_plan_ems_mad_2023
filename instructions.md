@@ -49,8 +49,8 @@ Please regard this document as an update on the Syllabus and the source of truth
 | S1 + S2 | Lecture | Jan 19th 2022 |
 | S3 + S4 | Lecture | Feb 2nd 2022 |
 | S5 + S6 | Lecture | Feb 16th 2022 |
-| S7 + S8 | Lecture + **Midterm** | Mar 1st 2022 |
-| S9 + S10 | Lecture | Mar 15th 2022 |
+| S7 + S8 | Lecture | Mar 1st 2022 |
+| S9 + S10 | Lecture + **Midterm**| Mar 15th 2022 |
 | S11 + S12 | Lecture | Apr 5th 2022 |
 | S13 + S14 | Lecture | Apr 19th 2022 |
 | S15 | **Final** | May 3th 2022 |
